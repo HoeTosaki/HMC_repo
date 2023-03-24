@@ -36,9 +36,11 @@ pip install -r requirements.txt
 
 ## Quick Start
 
-#### 1. download the [pretrained model]() & [demo data]()
+#### 1. download the [pretrained model](https://drive.google.com/file/d/1RPkzrJQLBIMGHyeqkbMVQcU61QlEAZuK/view?usp=sharing) & [demo data](https://drive.google.com/file/d/18G4k1n3lVhnff9d_zI3PbCv7h-_cQKUs/view?usp=sharing) from Google Drive
 
 Drop the pretrained model into `pretrained/` and demo data into `data/`, respectively.
+
+Here are backup links to Baidu Disk for both [model](https://pan.baidu.com/s/1zqTHhhrPJbksPZRnBgt4pA?pwd=2023) & [data](https://pan.baidu.com/s/1CbSELsD3FcYmk8x-eAenaQ?pwd=2023).
 
 #### 2.  retarget greeting motion to a Mixamo character in T-pose.
 Run
