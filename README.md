@@ -4,23 +4,21 @@
 
 ***
 
-![Python](https://img.shields.io/badge/Python->=3.7-Blue?logo=python)  ![Pytorch](https://img.shields.io/badge/PyTorch->=1.5.0-Red?logo=pytorch) ![PyG](https://img.shields.io/badge/PyG->=2.2.0-Red?logo=pyg) 
+![Python](https://img.shields.io/badge/Python->=3.7-Blue?logo=python)  ![Pytorch](https://img.shields.io/badge/PyTorch->=1.5.0-Red?logo=pytorch) ![PyG](https://img.shields.io/badge/PyG->=2.2.0-Red?logo=pyg) [![arXiv](https://img.shields.io/badge/arxiv-2303.10941-green.svg)](https://arxiv.org/abs/2303.10941) [![GitHub license](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/HoeTosaki/HMC_repo/blob/main/LICENSE) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hoewang.hmc)
 
 **Official Repository** for the newly published paper entitled "**HMC: Hierarchical Mesh Coarsening for Skeleton-free Motion Retargeting**"
 
 ![title_img](demo/title_img.jpg)
 
-[[Project Page]](https://semanticdh.github.io/HMC/)  [[ArXiv Page]](https://arxiv.org/abs/2303.10941)  [[Paper]](https://arxiv.org/pdf/2303.10941.pdf)
+[[Project Page]](https://semanticdh.github.io/HMC/)  [[ArXiv Page]](https://arxiv.org/abs/2303.10941)  [[Paper]](https://arxiv.org/pdf/2303.10941.pdf) 
 
 ***
 
 ## Demo Presentation
 
-<video  controls="controls" loop="loop">
+<!-- <video  controls="controls" loop="loop">
     <source src="demo/videos.mp4" type="video/mp4">
-</video>
-
-
+</video> -->
 
 ## Environment Preparation
 
@@ -52,7 +50,7 @@ Then, a motion sequence as `greeting_on_target-XXXXXX.obj` will be saved in `dat
 
 If the retargeted sequence is converted to `.abc` format (a routine for automatic conversion will be provided in the future), it should be like this:
 
-<img src="demo/demo_output.gif" alt="demo_output" style="zoom:50%;" />
+<img src="demo/demo_output.gif" alt="demo_output" style="zoom: 33%;" />
 
 ## Inference on your own data
 
@@ -101,7 +99,6 @@ If you use HMC in any context, please cite the following paper:
   }
 ```
 
+***
 
-
-
-
+<a href="https://info.flagcounter.com/mRXd"><img src="https://s11.flagcounter.com/count/mRXd/bg_3F90EB/txt_FFFFFF/border_CCCCCC/columns_8/maxflags_12/viewers_Visitors+of+HMC+repo/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
