@@ -1,0 +1,19 @@
+# global
+data_path_win: 'data'
+code_path_win: 'src'
+pool_config_path_win: 'pool'
+
+data_path_linux: 'data'
+code_path_linux: 'data'
+data_path_linux2: 'data'
+code_path_linux2: 'data'
+pool_config_path_linux: 'pool'
+
+data_path_darwin: 'data'
+code_path_darwin: 'data'
+pool_config_path_darwin: 'pool'
+
+#cuda_preferred: False # remains agnostic if cuda will help to accelerate for limited sequences of motion.
+cuda_preferred: True # remains agnostic if cuda will help to accelerate for limited sequences of motion.
+auto_release_pool: False # TODO: not work since 'file.open' not defined when auto __del__.
+
