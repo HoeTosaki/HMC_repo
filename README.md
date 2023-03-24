@@ -4,7 +4,7 @@
 
 ***
 
-![Python](https://img.shields.io/badge/Python->=3.7-Blue?logo=python)  ![Pytorch](https://img.shields.io/badge/PyTorch->=1.5.0-Red?logo=pytorch) ![PyG](https://img.shields.io/badge/PyG->=2.2.0-Red?logo=pyg) [![arXiv](https://img.shields.io/badge/arxiv-2303.10941-green.svg)](https://arxiv.org/abs/2303.10941) [![GitHub license](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/HoeTosaki/HMC_repo/blob/main/LICENSE) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hoewang.hmc)
+![Python](https://img.shields.io/badge/Python->=3.7-Blue?logo=python)  ![Pytorch](https://img.shields.io/badge/PyTorch->=1.5.0-Red?logo=pytorch) ![PyG](https://img.shields.io/badge/PyG->=2.2.0-Red?logo=pyg) [![arXiv](https://img.shields.io/badge/arxiv-2303.10941-green.svg)](https://arxiv.org/abs/2303.10941) [![GitHub license](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/HoeTosaki/HMC_repo/blob/main/LICENSE) ![visitor badge](https://api.visitor.plantree.me/visitor-badge/pv?namespace=hoewang.hmc&key=default&color=orange&style=plastic&label=visitors%20of%20HMC)
 
 **Official Repository** for the newly published paper entitled "**HMC: Hierarchical Mesh Coarsening for Skeleton-free Motion Retargeting**"
 
